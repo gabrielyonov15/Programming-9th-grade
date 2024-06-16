@@ -1,0 +1,14 @@
+C:\Users\lubak\Desktop\Programming\Programming-9th-grade\FinancialInformationRecorder\bin\Debug\net8.0\FinancialInformationRecorder.exe
+C:\Users\lubak\Desktop\Programming\Programming-9th-grade\FinancialInformationRecorder\bin\Debug\net8.0\FinancialInformationRecorder.deps.json
+C:\Users\lubak\Desktop\Programming\Programming-9th-grade\FinancialInformationRecorder\bin\Debug\net8.0\FinancialInformationRecorder.runtimeconfig.json
+C:\Users\lubak\Desktop\Programming\Programming-9th-grade\FinancialInformationRecorder\bin\Debug\net8.0\FinancialInformationRecorder.dll
+C:\Users\lubak\Desktop\Programming\Programming-9th-grade\FinancialInformationRecorder\bin\Debug\net8.0\FinancialInformationRecorder.pdb
+C:\Users\lubak\Desktop\Programming\Programming-9th-grade\FinancialInformationRecorder\obj\Debug\net8.0\FinancialInformationRecorder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lubak\Desktop\Programming\Programming-9th-grade\FinancialInformationRecorder\obj\Debug\net8.0\FinancialInformationRecorder.AssemblyInfoInputs.cache
+C:\Users\lubak\Desktop\Programming\Programming-9th-grade\FinancialInformationRecorder\obj\Debug\net8.0\FinancialInformationRecorder.AssemblyInfo.cs
+C:\Users\lubak\Desktop\Programming\Programming-9th-grade\FinancialInformationRecorder\obj\Debug\net8.0\FinancialInformationRecorder.csproj.CoreCompileInputs.cache
+C:\Users\lubak\Desktop\Programming\Programming-9th-grade\FinancialInformationRecorder\obj\Debug\net8.0\FinancialInformationRecorder.dll
+C:\Users\lubak\Desktop\Programming\Programming-9th-grade\FinancialInformationRecorder\obj\Debug\net8.0\refint\FinancialInformationRecorder.dll
+C:\Users\lubak\Desktop\Programming\Programming-9th-grade\FinancialInformationRecorder\obj\Debug\net8.0\FinancialInformationRecorder.pdb
+C:\Users\lubak\Desktop\Programming\Programming-9th-grade\FinancialInformationRecorder\obj\Debug\net8.0\FinancialInformationRecorder.genruntimeconfig.cache
+C:\Users\lubak\Desktop\Programming\Programming-9th-grade\FinancialInformationRecorder\obj\Debug\net8.0\ref\FinancialInformationRecorder.dll

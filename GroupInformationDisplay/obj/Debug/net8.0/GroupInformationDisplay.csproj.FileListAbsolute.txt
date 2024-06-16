@@ -1,0 +1,14 @@
+C:\Users\lubak\Desktop\Programming\Programming-9th-grade\GroupInformationDisplay\bin\Debug\net8.0\GroupInformationDisplay.exe
+C:\Users\lubak\Desktop\Programming\Programming-9th-grade\GroupInformationDisplay\bin\Debug\net8.0\GroupInformationDisplay.deps.json
+C:\Users\lubak\Desktop\Programming\Programming-9th-grade\GroupInformationDisplay\bin\Debug\net8.0\GroupInformationDisplay.runtimeconfig.json
+C:\Users\lubak\Desktop\Programming\Programming-9th-grade\GroupInformationDisplay\bin\Debug\net8.0\GroupInformationDisplay.dll
+C:\Users\lubak\Desktop\Programming\Programming-9th-grade\GroupInformationDisplay\bin\Debug\net8.0\GroupInformationDisplay.pdb
+C:\Users\lubak\Desktop\Programming\Programming-9th-grade\GroupInformationDisplay\obj\Debug\net8.0\GroupInformationDisplay.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lubak\Desktop\Programming\Programming-9th-grade\GroupInformationDisplay\obj\Debug\net8.0\GroupInformationDisplay.AssemblyInfoInputs.cache
+C:\Users\lubak\Desktop\Programming\Programming-9th-grade\GroupInformationDisplay\obj\Debug\net8.0\GroupInformationDisplay.AssemblyInfo.cs
+C:\Users\lubak\Desktop\Programming\Programming-9th-grade\GroupInformationDisplay\obj\Debug\net8.0\GroupInformationDisplay.csproj.CoreCompileInputs.cache
+C:\Users\lubak\Desktop\Programming\Programming-9th-grade\GroupInformationDisplay\obj\Debug\net8.0\GroupInformationDisplay.dll
+C:\Users\lubak\Desktop\Programming\Programming-9th-grade\GroupInformationDisplay\obj\Debug\net8.0\refint\GroupInformationDisplay.dll
+C:\Users\lubak\Desktop\Programming\Programming-9th-grade\GroupInformationDisplay\obj\Debug\net8.0\GroupInformationDisplay.pdb
+C:\Users\lubak\Desktop\Programming\Programming-9th-grade\GroupInformationDisplay\obj\Debug\net8.0\GroupInformationDisplay.genruntimeconfig.cache
+C:\Users\lubak\Desktop\Programming\Programming-9th-grade\GroupInformationDisplay\obj\Debug\net8.0\ref\GroupInformationDisplay.dll
