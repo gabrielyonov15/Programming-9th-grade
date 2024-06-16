@@ -1,0 +1,14 @@
+C:\Users\lubak\Desktop\Programming\Programming-9th-grade\SubjectsAndHoursManagement\bin\Debug\net8.0\SubjectsAndHoursManagement.exe
+C:\Users\lubak\Desktop\Programming\Programming-9th-grade\SubjectsAndHoursManagement\bin\Debug\net8.0\SubjectsAndHoursManagement.deps.json
+C:\Users\lubak\Desktop\Programming\Programming-9th-grade\SubjectsAndHoursManagement\bin\Debug\net8.0\SubjectsAndHoursManagement.runtimeconfig.json
+C:\Users\lubak\Desktop\Programming\Programming-9th-grade\SubjectsAndHoursManagement\bin\Debug\net8.0\SubjectsAndHoursManagement.dll
+C:\Users\lubak\Desktop\Programming\Programming-9th-grade\SubjectsAndHoursManagement\bin\Debug\net8.0\SubjectsAndHoursManagement.pdb
+C:\Users\lubak\Desktop\Programming\Programming-9th-grade\SubjectsAndHoursManagement\obj\Debug\net8.0\SubjectsAndHoursManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lubak\Desktop\Programming\Programming-9th-grade\SubjectsAndHoursManagement\obj\Debug\net8.0\SubjectsAndHoursManagement.AssemblyInfoInputs.cache
+C:\Users\lubak\Desktop\Programming\Programming-9th-grade\SubjectsAndHoursManagement\obj\Debug\net8.0\SubjectsAndHoursManagement.AssemblyInfo.cs
+C:\Users\lubak\Desktop\Programming\Programming-9th-grade\SubjectsAndHoursManagement\obj\Debug\net8.0\SubjectsAndHoursManagement.csproj.CoreCompileInputs.cache
+C:\Users\lubak\Desktop\Programming\Programming-9th-grade\SubjectsAndHoursManagement\obj\Debug\net8.0\SubjectsAndHoursManagement.dll
+C:\Users\lubak\Desktop\Programming\Programming-9th-grade\SubjectsAndHoursManagement\obj\Debug\net8.0\refint\SubjectsAndHoursManagement.dll
+C:\Users\lubak\Desktop\Programming\Programming-9th-grade\SubjectsAndHoursManagement\obj\Debug\net8.0\SubjectsAndHoursManagement.pdb
+C:\Users\lubak\Desktop\Programming\Programming-9th-grade\SubjectsAndHoursManagement\obj\Debug\net8.0\SubjectsAndHoursManagement.genruntimeconfig.cache
+C:\Users\lubak\Desktop\Programming\Programming-9th-grade\SubjectsAndHoursManagement\obj\Debug\net8.0\ref\SubjectsAndHoursManagement.dll
