@@ -1,0 +1,14 @@
+C:\Users\lubak\Desktop\Programming\Programming-9th-grade\PetInformationPresenter\bin\Debug\net8.0\PetInformationPresenter.exe
+C:\Users\lubak\Desktop\Programming\Programming-9th-grade\PetInformationPresenter\bin\Debug\net8.0\PetInformationPresenter.deps.json
+C:\Users\lubak\Desktop\Programming\Programming-9th-grade\PetInformationPresenter\bin\Debug\net8.0\PetInformationPresenter.runtimeconfig.json
+C:\Users\lubak\Desktop\Programming\Programming-9th-grade\PetInformationPresenter\bin\Debug\net8.0\PetInformationPresenter.dll
+C:\Users\lubak\Desktop\Programming\Programming-9th-grade\PetInformationPresenter\bin\Debug\net8.0\PetInformationPresenter.pdb
+C:\Users\lubak\Desktop\Programming\Programming-9th-grade\PetInformationPresenter\obj\Debug\net8.0\PetInformationPresenter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lubak\Desktop\Programming\Programming-9th-grade\PetInformationPresenter\obj\Debug\net8.0\PetInformationPresenter.AssemblyInfoInputs.cache
+C:\Users\lubak\Desktop\Programming\Programming-9th-grade\PetInformationPresenter\obj\Debug\net8.0\PetInformationPresenter.AssemblyInfo.cs
+C:\Users\lubak\Desktop\Programming\Programming-9th-grade\PetInformationPresenter\obj\Debug\net8.0\PetInformationPresenter.csproj.CoreCompileInputs.cache
+C:\Users\lubak\Desktop\Programming\Programming-9th-grade\PetInformationPresenter\obj\Debug\net8.0\PetInformationPresenter.dll
+C:\Users\lubak\Desktop\Programming\Programming-9th-grade\PetInformationPresenter\obj\Debug\net8.0\refint\PetInformationPresenter.dll
+C:\Users\lubak\Desktop\Programming\Programming-9th-grade\PetInformationPresenter\obj\Debug\net8.0\PetInformationPresenter.pdb
+C:\Users\lubak\Desktop\Programming\Programming-9th-grade\PetInformationPresenter\obj\Debug\net8.0\PetInformationPresenter.genruntimeconfig.cache
+C:\Users\lubak\Desktop\Programming\Programming-9th-grade\PetInformationPresenter\obj\Debug\net8.0\ref\PetInformationPresenter.dll

@@ -1,0 +1,14 @@
+C:\Users\lubak\Desktop\Programming\Programming-9th-grade\SortingNumbersAndNames\bin\Debug\net8.0\SortingNumbersAndNames.exe
+C:\Users\lubak\Desktop\Programming\Programming-9th-grade\SortingNumbersAndNames\bin\Debug\net8.0\SortingNumbersAndNames.deps.json
+C:\Users\lubak\Desktop\Programming\Programming-9th-grade\SortingNumbersAndNames\bin\Debug\net8.0\SortingNumbersAndNames.runtimeconfig.json
+C:\Users\lubak\Desktop\Programming\Programming-9th-grade\SortingNumbersAndNames\bin\Debug\net8.0\SortingNumbersAndNames.dll
+C:\Users\lubak\Desktop\Programming\Programming-9th-grade\SortingNumbersAndNames\bin\Debug\net8.0\SortingNumbersAndNames.pdb
+C:\Users\lubak\Desktop\Programming\Programming-9th-grade\SortingNumbersAndNames\obj\Debug\net8.0\SortingNumbersAndNames.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lubak\Desktop\Programming\Programming-9th-grade\SortingNumbersAndNames\obj\Debug\net8.0\SortingNumbersAndNames.AssemblyInfoInputs.cache
+C:\Users\lubak\Desktop\Programming\Programming-9th-grade\SortingNumbersAndNames\obj\Debug\net8.0\SortingNumbersAndNames.AssemblyInfo.cs
+C:\Users\lubak\Desktop\Programming\Programming-9th-grade\SortingNumbersAndNames\obj\Debug\net8.0\SortingNumbersAndNames.csproj.CoreCompileInputs.cache
+C:\Users\lubak\Desktop\Programming\Programming-9th-grade\SortingNumbersAndNames\obj\Debug\net8.0\SortingNumbersAndNames.dll
+C:\Users\lubak\Desktop\Programming\Programming-9th-grade\SortingNumbersAndNames\obj\Debug\net8.0\refint\SortingNumbersAndNames.dll
+C:\Users\lubak\Desktop\Programming\Programming-9th-grade\SortingNumbersAndNames\obj\Debug\net8.0\SortingNumbersAndNames.pdb
+C:\Users\lubak\Desktop\Programming\Programming-9th-grade\SortingNumbersAndNames\obj\Debug\net8.0\SortingNumbersAndNames.genruntimeconfig.cache
+C:\Users\lubak\Desktop\Programming\Programming-9th-grade\SortingNumbersAndNames\obj\Debug\net8.0\ref\SortingNumbersAndNames.dll
