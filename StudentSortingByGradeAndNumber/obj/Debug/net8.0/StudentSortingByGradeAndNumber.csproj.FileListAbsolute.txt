@@ -1,0 +1,14 @@
+C:\Users\lubak\Desktop\Programming\Programming-9th-grade\StudentSortingByGradeAndNumber\bin\Debug\net8.0\StudentSortingByGradeAndNumber.exe
+C:\Users\lubak\Desktop\Programming\Programming-9th-grade\StudentSortingByGradeAndNumber\bin\Debug\net8.0\StudentSortingByGradeAndNumber.deps.json
+C:\Users\lubak\Desktop\Programming\Programming-9th-grade\StudentSortingByGradeAndNumber\bin\Debug\net8.0\StudentSortingByGradeAndNumber.runtimeconfig.json
+C:\Users\lubak\Desktop\Programming\Programming-9th-grade\StudentSortingByGradeAndNumber\bin\Debug\net8.0\StudentSortingByGradeAndNumber.dll
+C:\Users\lubak\Desktop\Programming\Programming-9th-grade\StudentSortingByGradeAndNumber\bin\Debug\net8.0\StudentSortingByGradeAndNumber.pdb
+C:\Users\lubak\Desktop\Programming\Programming-9th-grade\StudentSortingByGradeAndNumber\obj\Debug\net8.0\StudentSortingByGradeAndNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lubak\Desktop\Programming\Programming-9th-grade\StudentSortingByGradeAndNumber\obj\Debug\net8.0\StudentSortingByGradeAndNumber.AssemblyInfoInputs.cache
+C:\Users\lubak\Desktop\Programming\Programming-9th-grade\StudentSortingByGradeAndNumber\obj\Debug\net8.0\StudentSortingByGradeAndNumber.AssemblyInfo.cs
+C:\Users\lubak\Desktop\Programming\Programming-9th-grade\StudentSortingByGradeAndNumber\obj\Debug\net8.0\StudentSortingByGradeAndNumber.csproj.CoreCompileInputs.cache
+C:\Users\lubak\Desktop\Programming\Programming-9th-grade\StudentSortingByGradeAndNumber\obj\Debug\net8.0\StudentSortingByGradeAndNumber.dll
+C:\Users\lubak\Desktop\Programming\Programming-9th-grade\StudentSortingByGradeAndNumber\obj\Debug\net8.0\refint\StudentSortingByGradeAndNumber.dll
+C:\Users\lubak\Desktop\Programming\Programming-9th-grade\StudentSortingByGradeAndNumber\obj\Debug\net8.0\StudentSortingByGradeAndNumber.pdb
+C:\Users\lubak\Desktop\Programming\Programming-9th-grade\StudentSortingByGradeAndNumber\obj\Debug\net8.0\StudentSortingByGradeAndNumber.genruntimeconfig.cache
+C:\Users\lubak\Desktop\Programming\Programming-9th-grade\StudentSortingByGradeAndNumber\obj\Debug\net8.0\ref\StudentSortingByGradeAndNumber.dll

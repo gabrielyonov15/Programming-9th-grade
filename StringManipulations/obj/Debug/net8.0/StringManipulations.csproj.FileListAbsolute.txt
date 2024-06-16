@@ -1,0 +1,14 @@
+C:\Users\lubak\Desktop\Programming\Programming-9th-grade\StringManipulations\bin\Debug\net8.0\StringManipulations.exe
+C:\Users\lubak\Desktop\Programming\Programming-9th-grade\StringManipulations\bin\Debug\net8.0\StringManipulations.deps.json
+C:\Users\lubak\Desktop\Programming\Programming-9th-grade\StringManipulations\bin\Debug\net8.0\StringManipulations.runtimeconfig.json
+C:\Users\lubak\Desktop\Programming\Programming-9th-grade\StringManipulations\bin\Debug\net8.0\StringManipulations.dll
+C:\Users\lubak\Desktop\Programming\Programming-9th-grade\StringManipulations\bin\Debug\net8.0\StringManipulations.pdb
+C:\Users\lubak\Desktop\Programming\Programming-9th-grade\StringManipulations\obj\Debug\net8.0\StringManipulations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lubak\Desktop\Programming\Programming-9th-grade\StringManipulations\obj\Debug\net8.0\StringManipulations.AssemblyInfoInputs.cache
+C:\Users\lubak\Desktop\Programming\Programming-9th-grade\StringManipulations\obj\Debug\net8.0\StringManipulations.AssemblyInfo.cs
+C:\Users\lubak\Desktop\Programming\Programming-9th-grade\StringManipulations\obj\Debug\net8.0\StringManipulations.csproj.CoreCompileInputs.cache
+C:\Users\lubak\Desktop\Programming\Programming-9th-grade\StringManipulations\obj\Debug\net8.0\StringManipulations.dll
+C:\Users\lubak\Desktop\Programming\Programming-9th-grade\StringManipulations\obj\Debug\net8.0\refint\StringManipulations.dll
+C:\Users\lubak\Desktop\Programming\Programming-9th-grade\StringManipulations\obj\Debug\net8.0\StringManipulations.pdb
+C:\Users\lubak\Desktop\Programming\Programming-9th-grade\StringManipulations\obj\Debug\net8.0\StringManipulations.genruntimeconfig.cache
+C:\Users\lubak\Desktop\Programming\Programming-9th-grade\StringManipulations\obj\Debug\net8.0\ref\StringManipulations.dll
