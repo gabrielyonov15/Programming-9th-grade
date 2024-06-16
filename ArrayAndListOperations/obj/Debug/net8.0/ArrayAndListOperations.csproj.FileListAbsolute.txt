@@ -1,0 +1,14 @@
+C:\Users\lubak\Desktop\Programming\Programming-9th-grade\ArrayAndListOperations\bin\Debug\net8.0\ArrayAndListOperations.exe
+C:\Users\lubak\Desktop\Programming\Programming-9th-grade\ArrayAndListOperations\bin\Debug\net8.0\ArrayAndListOperations.deps.json
+C:\Users\lubak\Desktop\Programming\Programming-9th-grade\ArrayAndListOperations\bin\Debug\net8.0\ArrayAndListOperations.runtimeconfig.json
+C:\Users\lubak\Desktop\Programming\Programming-9th-grade\ArrayAndListOperations\bin\Debug\net8.0\ArrayAndListOperations.dll
+C:\Users\lubak\Desktop\Programming\Programming-9th-grade\ArrayAndListOperations\bin\Debug\net8.0\ArrayAndListOperations.pdb
+C:\Users\lubak\Desktop\Programming\Programming-9th-grade\ArrayAndListOperations\obj\Debug\net8.0\ArrayAndListOperations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lubak\Desktop\Programming\Programming-9th-grade\ArrayAndListOperations\obj\Debug\net8.0\ArrayAndListOperations.AssemblyInfoInputs.cache
+C:\Users\lubak\Desktop\Programming\Programming-9th-grade\ArrayAndListOperations\obj\Debug\net8.0\ArrayAndListOperations.AssemblyInfo.cs
+C:\Users\lubak\Desktop\Programming\Programming-9th-grade\ArrayAndListOperations\obj\Debug\net8.0\ArrayAndListOperations.csproj.CoreCompileInputs.cache
+C:\Users\lubak\Desktop\Programming\Programming-9th-grade\ArrayAndListOperations\obj\Debug\net8.0\ArrayAndListOperations.dll
+C:\Users\lubak\Desktop\Programming\Programming-9th-grade\ArrayAndListOperations\obj\Debug\net8.0\refint\ArrayAndListOperations.dll
+C:\Users\lubak\Desktop\Programming\Programming-9th-grade\ArrayAndListOperations\obj\Debug\net8.0\ArrayAndListOperations.pdb
+C:\Users\lubak\Desktop\Programming\Programming-9th-grade\ArrayAndListOperations\obj\Debug\net8.0\ArrayAndListOperations.genruntimeconfig.cache
+C:\Users\lubak\Desktop\Programming\Programming-9th-grade\ArrayAndListOperations\obj\Debug\net8.0\ref\ArrayAndListOperations.dll

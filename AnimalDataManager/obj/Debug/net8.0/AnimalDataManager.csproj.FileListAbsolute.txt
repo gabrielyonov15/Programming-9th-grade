@@ -1,0 +1,14 @@
+C:\Users\lubak\Desktop\Programming\Programming-9th-grade\AnimalDataManager\bin\Debug\net8.0\AnimalDataManager.exe
+C:\Users\lubak\Desktop\Programming\Programming-9th-grade\AnimalDataManager\bin\Debug\net8.0\AnimalDataManager.deps.json
+C:\Users\lubak\Desktop\Programming\Programming-9th-grade\AnimalDataManager\bin\Debug\net8.0\AnimalDataManager.runtimeconfig.json
+C:\Users\lubak\Desktop\Programming\Programming-9th-grade\AnimalDataManager\bin\Debug\net8.0\AnimalDataManager.dll
+C:\Users\lubak\Desktop\Programming\Programming-9th-grade\AnimalDataManager\bin\Debug\net8.0\AnimalDataManager.pdb
+C:\Users\lubak\Desktop\Programming\Programming-9th-grade\AnimalDataManager\obj\Debug\net8.0\AnimalDataManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lubak\Desktop\Programming\Programming-9th-grade\AnimalDataManager\obj\Debug\net8.0\AnimalDataManager.AssemblyInfoInputs.cache
+C:\Users\lubak\Desktop\Programming\Programming-9th-grade\AnimalDataManager\obj\Debug\net8.0\AnimalDataManager.AssemblyInfo.cs
+C:\Users\lubak\Desktop\Programming\Programming-9th-grade\AnimalDataManager\obj\Debug\net8.0\AnimalDataManager.csproj.CoreCompileInputs.cache
+C:\Users\lubak\Desktop\Programming\Programming-9th-grade\AnimalDataManager\obj\Debug\net8.0\AnimalDataManager.dll
+C:\Users\lubak\Desktop\Programming\Programming-9th-grade\AnimalDataManager\obj\Debug\net8.0\refint\AnimalDataManager.dll
+C:\Users\lubak\Desktop\Programming\Programming-9th-grade\AnimalDataManager\obj\Debug\net8.0\AnimalDataManager.pdb
+C:\Users\lubak\Desktop\Programming\Programming-9th-grade\AnimalDataManager\obj\Debug\net8.0\AnimalDataManager.genruntimeconfig.cache
+C:\Users\lubak\Desktop\Programming\Programming-9th-grade\AnimalDataManager\obj\Debug\net8.0\ref\AnimalDataManager.dll
