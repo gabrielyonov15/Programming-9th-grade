@@ -1,0 +1,14 @@
+C:\Users\lubak\Desktop\Programming\Programming-9th-grade\NamePresentation\bin\Debug\net8.0\NamePresentation.exe
+C:\Users\lubak\Desktop\Programming\Programming-9th-grade\NamePresentation\bin\Debug\net8.0\NamePresentation.deps.json
+C:\Users\lubak\Desktop\Programming\Programming-9th-grade\NamePresentation\bin\Debug\net8.0\NamePresentation.runtimeconfig.json
+C:\Users\lubak\Desktop\Programming\Programming-9th-grade\NamePresentation\bin\Debug\net8.0\NamePresentation.dll
+C:\Users\lubak\Desktop\Programming\Programming-9th-grade\NamePresentation\bin\Debug\net8.0\NamePresentation.pdb
+C:\Users\lubak\Desktop\Programming\Programming-9th-grade\NamePresentation\obj\Debug\net8.0\NamePresentation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lubak\Desktop\Programming\Programming-9th-grade\NamePresentation\obj\Debug\net8.0\NamePresentation.AssemblyInfoInputs.cache
+C:\Users\lubak\Desktop\Programming\Programming-9th-grade\NamePresentation\obj\Debug\net8.0\NamePresentation.AssemblyInfo.cs
+C:\Users\lubak\Desktop\Programming\Programming-9th-grade\NamePresentation\obj\Debug\net8.0\NamePresentation.csproj.CoreCompileInputs.cache
+C:\Users\lubak\Desktop\Programming\Programming-9th-grade\NamePresentation\obj\Debug\net8.0\NamePresentation.dll
+C:\Users\lubak\Desktop\Programming\Programming-9th-grade\NamePresentation\obj\Debug\net8.0\refint\NamePresentation.dll
+C:\Users\lubak\Desktop\Programming\Programming-9th-grade\NamePresentation\obj\Debug\net8.0\NamePresentation.pdb
+C:\Users\lubak\Desktop\Programming\Programming-9th-grade\NamePresentation\obj\Debug\net8.0\NamePresentation.genruntimeconfig.cache
+C:\Users\lubak\Desktop\Programming\Programming-9th-grade\NamePresentation\obj\Debug\net8.0\ref\NamePresentation.dll

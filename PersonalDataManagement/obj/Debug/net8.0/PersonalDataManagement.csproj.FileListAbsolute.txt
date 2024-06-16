@@ -1,0 +1,14 @@
+C:\Users\lubak\Desktop\Programming\Programming-9th-grade\PersonalDataManagement\bin\Debug\net8.0\PersonalDataManagement.exe
+C:\Users\lubak\Desktop\Programming\Programming-9th-grade\PersonalDataManagement\bin\Debug\net8.0\PersonalDataManagement.deps.json
+C:\Users\lubak\Desktop\Programming\Programming-9th-grade\PersonalDataManagement\bin\Debug\net8.0\PersonalDataManagement.runtimeconfig.json
+C:\Users\lubak\Desktop\Programming\Programming-9th-grade\PersonalDataManagement\bin\Debug\net8.0\PersonalDataManagement.dll
+C:\Users\lubak\Desktop\Programming\Programming-9th-grade\PersonalDataManagement\bin\Debug\net8.0\PersonalDataManagement.pdb
+C:\Users\lubak\Desktop\Programming\Programming-9th-grade\PersonalDataManagement\obj\Debug\net8.0\PersonalDataManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lubak\Desktop\Programming\Programming-9th-grade\PersonalDataManagement\obj\Debug\net8.0\PersonalDataManagement.AssemblyInfoInputs.cache
+C:\Users\lubak\Desktop\Programming\Programming-9th-grade\PersonalDataManagement\obj\Debug\net8.0\PersonalDataManagement.AssemblyInfo.cs
+C:\Users\lubak\Desktop\Programming\Programming-9th-grade\PersonalDataManagement\obj\Debug\net8.0\PersonalDataManagement.csproj.CoreCompileInputs.cache
+C:\Users\lubak\Desktop\Programming\Programming-9th-grade\PersonalDataManagement\obj\Debug\net8.0\PersonalDataManagement.dll
+C:\Users\lubak\Desktop\Programming\Programming-9th-grade\PersonalDataManagement\obj\Debug\net8.0\refint\PersonalDataManagement.dll
+C:\Users\lubak\Desktop\Programming\Programming-9th-grade\PersonalDataManagement\obj\Debug\net8.0\PersonalDataManagement.pdb
+C:\Users\lubak\Desktop\Programming\Programming-9th-grade\PersonalDataManagement\obj\Debug\net8.0\PersonalDataManagement.genruntimeconfig.cache
+C:\Users\lubak\Desktop\Programming\Programming-9th-grade\PersonalDataManagement\obj\Debug\net8.0\ref\PersonalDataManagement.dll
