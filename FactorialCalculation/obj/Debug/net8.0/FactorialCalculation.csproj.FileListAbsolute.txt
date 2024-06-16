@@ -1,0 +1,14 @@
+C:\Users\lubak\Desktop\Programming\Programming-9th-grade\FactorialCalculation\bin\Debug\net8.0\FactorialCalculation.exe
+C:\Users\lubak\Desktop\Programming\Programming-9th-grade\FactorialCalculation\bin\Debug\net8.0\FactorialCalculation.deps.json
+C:\Users\lubak\Desktop\Programming\Programming-9th-grade\FactorialCalculation\bin\Debug\net8.0\FactorialCalculation.runtimeconfig.json
+C:\Users\lubak\Desktop\Programming\Programming-9th-grade\FactorialCalculation\bin\Debug\net8.0\FactorialCalculation.dll
+C:\Users\lubak\Desktop\Programming\Programming-9th-grade\FactorialCalculation\bin\Debug\net8.0\FactorialCalculation.pdb
+C:\Users\lubak\Desktop\Programming\Programming-9th-grade\FactorialCalculation\obj\Debug\net8.0\FactorialCalculation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lubak\Desktop\Programming\Programming-9th-grade\FactorialCalculation\obj\Debug\net8.0\FactorialCalculation.AssemblyInfoInputs.cache
+C:\Users\lubak\Desktop\Programming\Programming-9th-grade\FactorialCalculation\obj\Debug\net8.0\FactorialCalculation.AssemblyInfo.cs
+C:\Users\lubak\Desktop\Programming\Programming-9th-grade\FactorialCalculation\obj\Debug\net8.0\FactorialCalculation.csproj.CoreCompileInputs.cache
+C:\Users\lubak\Desktop\Programming\Programming-9th-grade\FactorialCalculation\obj\Debug\net8.0\FactorialCalculation.dll
+C:\Users\lubak\Desktop\Programming\Programming-9th-grade\FactorialCalculation\obj\Debug\net8.0\refint\FactorialCalculation.dll
+C:\Users\lubak\Desktop\Programming\Programming-9th-grade\FactorialCalculation\obj\Debug\net8.0\FactorialCalculation.pdb
+C:\Users\lubak\Desktop\Programming\Programming-9th-grade\FactorialCalculation\obj\Debug\net8.0\FactorialCalculation.genruntimeconfig.cache
+C:\Users\lubak\Desktop\Programming\Programming-9th-grade\FactorialCalculation\obj\Debug\net8.0\ref\FactorialCalculation.dll

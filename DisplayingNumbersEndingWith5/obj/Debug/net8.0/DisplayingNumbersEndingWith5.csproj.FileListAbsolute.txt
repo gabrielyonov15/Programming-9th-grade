@@ -1,0 +1,14 @@
+C:\Users\lubak\Desktop\Programming\Programming-9th-grade\DisplayingNumbersEndingWith5\bin\Debug\net8.0\DisplayingNumbersEndingWith5.exe
+C:\Users\lubak\Desktop\Programming\Programming-9th-grade\DisplayingNumbersEndingWith5\bin\Debug\net8.0\DisplayingNumbersEndingWith5.deps.json
+C:\Users\lubak\Desktop\Programming\Programming-9th-grade\DisplayingNumbersEndingWith5\bin\Debug\net8.0\DisplayingNumbersEndingWith5.runtimeconfig.json
+C:\Users\lubak\Desktop\Programming\Programming-9th-grade\DisplayingNumbersEndingWith5\bin\Debug\net8.0\DisplayingNumbersEndingWith5.dll
+C:\Users\lubak\Desktop\Programming\Programming-9th-grade\DisplayingNumbersEndingWith5\bin\Debug\net8.0\DisplayingNumbersEndingWith5.pdb
+C:\Users\lubak\Desktop\Programming\Programming-9th-grade\DisplayingNumbersEndingWith5\obj\Debug\net8.0\DisplayingNumbersEndingWith5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lubak\Desktop\Programming\Programming-9th-grade\DisplayingNumbersEndingWith5\obj\Debug\net8.0\DisplayingNumbersEndingWith5.AssemblyInfoInputs.cache
+C:\Users\lubak\Desktop\Programming\Programming-9th-grade\DisplayingNumbersEndingWith5\obj\Debug\net8.0\DisplayingNumbersEndingWith5.AssemblyInfo.cs
+C:\Users\lubak\Desktop\Programming\Programming-9th-grade\DisplayingNumbersEndingWith5\obj\Debug\net8.0\DisplayingNumbersEndingWith5.csproj.CoreCompileInputs.cache
+C:\Users\lubak\Desktop\Programming\Programming-9th-grade\DisplayingNumbersEndingWith5\obj\Debug\net8.0\DisplayingNumbersEndingWith5.dll
+C:\Users\lubak\Desktop\Programming\Programming-9th-grade\DisplayingNumbersEndingWith5\obj\Debug\net8.0\refint\DisplayingNumbersEndingWith5.dll
+C:\Users\lubak\Desktop\Programming\Programming-9th-grade\DisplayingNumbersEndingWith5\obj\Debug\net8.0\DisplayingNumbersEndingWith5.pdb
+C:\Users\lubak\Desktop\Programming\Programming-9th-grade\DisplayingNumbersEndingWith5\obj\Debug\net8.0\DisplayingNumbersEndingWith5.genruntimeconfig.cache
+C:\Users\lubak\Desktop\Programming\Programming-9th-grade\DisplayingNumbersEndingWith5\obj\Debug\net8.0\ref\DisplayingNumbersEndingWith5.dll
