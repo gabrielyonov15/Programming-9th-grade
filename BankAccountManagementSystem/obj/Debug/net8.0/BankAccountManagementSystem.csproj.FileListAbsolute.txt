@@ -1,0 +1,14 @@
+C:\Users\lubak\Desktop\Programming\Programming-9th-grade\BankAccountManagementSystem\bin\Debug\net8.0\BankAccountManagementSystem.exe
+C:\Users\lubak\Desktop\Programming\Programming-9th-grade\BankAccountManagementSystem\bin\Debug\net8.0\BankAccountManagementSystem.deps.json
+C:\Users\lubak\Desktop\Programming\Programming-9th-grade\BankAccountManagementSystem\bin\Debug\net8.0\BankAccountManagementSystem.runtimeconfig.json
+C:\Users\lubak\Desktop\Programming\Programming-9th-grade\BankAccountManagementSystem\bin\Debug\net8.0\BankAccountManagementSystem.dll
+C:\Users\lubak\Desktop\Programming\Programming-9th-grade\BankAccountManagementSystem\bin\Debug\net8.0\BankAccountManagementSystem.pdb
+C:\Users\lubak\Desktop\Programming\Programming-9th-grade\BankAccountManagementSystem\obj\Debug\net8.0\BankAccountManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lubak\Desktop\Programming\Programming-9th-grade\BankAccountManagementSystem\obj\Debug\net8.0\BankAccountManagementSystem.AssemblyInfoInputs.cache
+C:\Users\lubak\Desktop\Programming\Programming-9th-grade\BankAccountManagementSystem\obj\Debug\net8.0\BankAccountManagementSystem.AssemblyInfo.cs
+C:\Users\lubak\Desktop\Programming\Programming-9th-grade\BankAccountManagementSystem\obj\Debug\net8.0\BankAccountManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\lubak\Desktop\Programming\Programming-9th-grade\BankAccountManagementSystem\obj\Debug\net8.0\BankAccountManagementSystem.dll
+C:\Users\lubak\Desktop\Programming\Programming-9th-grade\BankAccountManagementSystem\obj\Debug\net8.0\refint\BankAccountManagementSystem.dll
+C:\Users\lubak\Desktop\Programming\Programming-9th-grade\BankAccountManagementSystem\obj\Debug\net8.0\BankAccountManagementSystem.pdb
+C:\Users\lubak\Desktop\Programming\Programming-9th-grade\BankAccountManagementSystem\obj\Debug\net8.0\BankAccountManagementSystem.genruntimeconfig.cache
+C:\Users\lubak\Desktop\Programming\Programming-9th-grade\BankAccountManagementSystem\obj\Debug\net8.0\ref\BankAccountManagementSystem.dll

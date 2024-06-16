@@ -1,0 +1,14 @@
+C:\Users\lubak\Desktop\Programming\Programming-9th-grade\BreakfastsAndBudgets\bin\Debug\net8.0\BreakfastsAndBudgets.exe
+C:\Users\lubak\Desktop\Programming\Programming-9th-grade\BreakfastsAndBudgets\bin\Debug\net8.0\BreakfastsAndBudgets.deps.json
+C:\Users\lubak\Desktop\Programming\Programming-9th-grade\BreakfastsAndBudgets\bin\Debug\net8.0\BreakfastsAndBudgets.runtimeconfig.json
+C:\Users\lubak\Desktop\Programming\Programming-9th-grade\BreakfastsAndBudgets\bin\Debug\net8.0\BreakfastsAndBudgets.dll
+C:\Users\lubak\Desktop\Programming\Programming-9th-grade\BreakfastsAndBudgets\bin\Debug\net8.0\BreakfastsAndBudgets.pdb
+C:\Users\lubak\Desktop\Programming\Programming-9th-grade\BreakfastsAndBudgets\obj\Debug\net8.0\BreakfastsAndBudgets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lubak\Desktop\Programming\Programming-9th-grade\BreakfastsAndBudgets\obj\Debug\net8.0\BreakfastsAndBudgets.AssemblyInfoInputs.cache
+C:\Users\lubak\Desktop\Programming\Programming-9th-grade\BreakfastsAndBudgets\obj\Debug\net8.0\BreakfastsAndBudgets.AssemblyInfo.cs
+C:\Users\lubak\Desktop\Programming\Programming-9th-grade\BreakfastsAndBudgets\obj\Debug\net8.0\BreakfastsAndBudgets.csproj.CoreCompileInputs.cache
+C:\Users\lubak\Desktop\Programming\Programming-9th-grade\BreakfastsAndBudgets\obj\Debug\net8.0\BreakfastsAndBudgets.dll
+C:\Users\lubak\Desktop\Programming\Programming-9th-grade\BreakfastsAndBudgets\obj\Debug\net8.0\refint\BreakfastsAndBudgets.dll
+C:\Users\lubak\Desktop\Programming\Programming-9th-grade\BreakfastsAndBudgets\obj\Debug\net8.0\BreakfastsAndBudgets.pdb
+C:\Users\lubak\Desktop\Programming\Programming-9th-grade\BreakfastsAndBudgets\obj\Debug\net8.0\BreakfastsAndBudgets.genruntimeconfig.cache
+C:\Users\lubak\Desktop\Programming\Programming-9th-grade\BreakfastsAndBudgets\obj\Debug\net8.0\ref\BreakfastsAndBudgets.dll
